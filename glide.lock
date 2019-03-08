@@ -1,0 +1,8 @@
+hash: b360731d886f2011ebba5f21cae612f4f4939033f815f4e2eec4619abe198f6f
+updated: 2019-03-04T16:43:20.437660473+07:00
+imports:
+- name: github.com/lib/pq
+  version: 4ded0e9383f75c197b3a2aaa6d590ac52df6fd79
+- name: github.com/wuriyanto48/floop
+  version: 426c3d65ea1776577998c747cf1f2b3fe717e20d
+testImports: []

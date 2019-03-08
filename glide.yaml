@@ -1,0 +1,5 @@
+package: github.com/CRUD-postgre
+import:
+- package: github.com/wuriyanto48/floop
+- package: github.com/lib/pq
+  version: v1.0.0
